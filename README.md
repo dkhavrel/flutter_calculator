@@ -15,11 +15,12 @@ A simple calculator app built with Flutter that supports basic arithmetic operat
 
 ### Main Calculator Screen
 
-![Main Calculator Screen](./lib/images/screenshots/calculator_main_screen.png)
+<img src="./lib/images/screenshots/calculator_main_screen.png" alt="Main Calculator Screen" height="400">
 
 ### Calculator Example
 
-![Calculator Example](./lib/images/screenshots/calculator_example.png)
+<img src="./lib/images/screenshots/calculator_example.png" alt="Calculator Example" height="400">
+
 
 Ensure you have the following installed on your machine:
 
